@@ -13,7 +13,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Continued development](#continued-development)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 Create a QR code component and make it responsive.
@@ -25,7 +24,7 @@ qr-code-component-main\images\solution code.png
 ### Links
 
 - Solution URL: https://github.com/biosoluwa/QR-code
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: https://biosoluwa.github.io/QR-code/
 
 ## My process
 I created the html markups using divs, img, and p elements. Then used css flexbox to style.
@@ -46,6 +45,6 @@ Need to solidify my knowledge of flexbox, grids, and media queries.
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
+- Website - https://biosoluwa.github.io/QR-code/
 - Frontend Mentor - https://www.frontendmentor.io/profile/biosoluwa
 - Twitter - https://www.twitter.com/_ti_wi_
