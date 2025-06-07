@@ -18,6 +18,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 Create a QR code component and make it responsive.
 
 ### Screenshot
+![](./C:\Users\USER\OneDrive\Desktop\FRONTEND MENTOR\qr-code-component-main\images\solution code.png)
+
 qr-code-component-main\images\solution code.png
 
 
